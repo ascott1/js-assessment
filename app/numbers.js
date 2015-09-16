@@ -6,7 +6,7 @@ exports.numbersAnswers = {
   },
 
   base10: function(str) {
-
+    
   },
 
   convertToBinary: function(num) {

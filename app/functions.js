@@ -1,6 +1,7 @@
 exports = (typeof window === 'undefined') ? global : window;
 
 exports.functionsAnswers = {
+
   argsAsArray : function(fn, arr) {
 
   },
